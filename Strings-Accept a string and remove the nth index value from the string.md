@@ -32,9 +32,8 @@ print("Modified string:", result)
 
 ## Output
 
-Enter a string: welcome
-Enter index to remove: 3
-Modified string: welome
+<img width="292" height="123" alt="image" src="https://github.com/user-attachments/assets/b8f82e47-4841-41af-bab1-e28d9b8dfbba" />
+
 
 ## Result
 
