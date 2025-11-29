@@ -18,7 +18,8 @@ print("Sum of list items:", total)
 
 ## Output
 
-Sum of list items: 75
+<img width="248" height="72" alt="image" src="https://github.com/user-attachments/assets/088d9a75-2ed6-4e38-ba7e-c8eabe47620e" />
+
 
 ## Result
 
