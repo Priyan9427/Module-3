@@ -1,3 +1,4 @@
+
 # List Operations in Python: Sum of List Items
 
 ## 🎯 Aim
@@ -10,8 +11,15 @@ To write a Python program that calculates the **sum of all elements** in a list.
 
 ## 🧾 Program
 
-Add code here
+numbers = [5, 10, 15, 20, 25]
+total = sum(numbers)
+print("Sum of list items:", total)
+
 
 ## Output
 
+Sum of list items: 75
+
 ## Result
+
+Thus, the Python program successfully calculates the sum of all elements in a list.
