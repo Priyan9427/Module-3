@@ -30,7 +30,8 @@ print("Filtered words:", l1)
 ```
 ## Output
 
-Filtered words: ['goal', 'sit']
+<img width="418" height="76" alt="image" src="https://github.com/user-attachments/assets/6118bdd9-0189-4115-8ae2-b6866ce15ddc" />
+
 
 ## Result
 
